@@ -8,3 +8,6 @@ Informações pessoais:
 03 Repositórios interessantes:
 -https://github.com/laysabelici/EstudoTecnicosFutebolBrasileiro
 - https://github.com/IceWhaleTech/CasaOS
+- https://github.com/calderonperaza/FPI2021celulares
+
+Dúvidas/Descobertas
